@@ -50,4 +50,6 @@ Ready for Ethereum, Polygon, Arbitrum, Optimism, Base, and any EVM chain.
 ```bash
 npx hardhat run scripts/deploy.ts --network mainnet
 
-address = <img width="1414" height="612" alt="image" src="https://github.com/user-attachments/assets/77e4ef45-a345-4111-af88-e478a7128b4d" />
+address =
+<img width="1467" height="293" alt="image" src="https://github.com/user-attachments/assets/2d2eeb7f-79fa-4da2-bd90-d5afc646164e" />
+
